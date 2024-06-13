@@ -1,2 +1,2 @@
 # html-code
-pag of index html
+git init
